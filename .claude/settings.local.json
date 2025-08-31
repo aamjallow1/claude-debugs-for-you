@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(powershell:*)",
+      "Read(C:\\Users\\aajal\\OneDrive\\Documents\\AI-APP/**)",
+      "Read(C:\\Users\\aajal\\OneDrive\\Documents\\AI-APP/**)",
+      "Read(C:\\Users\\aajal\\OneDrive\\Documents\\AI-APP/**)",
+      "Read(C:\\Users\\aajal\\OneDrive\\Documents\\AI-APP/**)",
+      "Read(C:\\Users\\aajal\\OneDrive\\Documents\\AI-APP/**)",
+      "Read(C:\\Users\\aajal\\OneDrive\\Documents\\AI-APP/**)",
+      "Bash(python:*)",
+      "Bash(chmod:*)",
+      "Bash(gh repo list:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
