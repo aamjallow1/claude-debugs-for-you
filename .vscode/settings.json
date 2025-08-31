@@ -10,5 +10,14 @@
 	"typescript.tsc.autoDetect": "off",
 	"files.readonlyInclude": {
 		"{**/.c4z/.extsrcs/*.PROTSYM.cbl,**/.c4z/.extsrcs/*.PROTSYM.listing}": true
-	}
+	},
+	"netbeans.jdkhome": "c:\\Program Files\\Microsoft\\jdk-17.0.16.8-hotspot",
+	"netbeans.project.jdkhome": "c:\\Program Files\\Microsoft\\jdk-17.0.16.8-hotspot",
+	"java.jdt.ls.java.home": "c:\\Program Files\\Microsoft\\jdk-17.0.16.8-hotspot",
+	"java.configuration.runtimes": [
+		{
+			"name": "JavaSE-17",
+			"path": "c:\\Program Files\\Microsoft\\jdk-17.0.16.8-hotspot"
+		}
+	]
 }
