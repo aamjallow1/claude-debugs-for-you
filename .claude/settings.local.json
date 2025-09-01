@@ -10,7 +10,18 @@
       "Read(C:\\Users\\aajal\\OneDrive\\Documents\\AI-APP/**)",
       "Bash(python:*)",
       "Bash(chmod:*)",
-      "Bash(gh repo list:*)"
+      "Bash(gh repo list:*)",
+      "Bash(dir:*)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(git pull:*)",
+      "Bash(git fetch:*)",
+      "Bash(git remote remove:*)",
+      "Bash(echo \"HTTP_PROXY: $env:HTTP_PROXY\")",
+      "Bash(echo:*)",
+      "Bash(echo \"http_proxy: $env:http_proxy\")",
+      "Bash(echo \"https_proxy: $env:https_proxy\")",
+      "Bash(set_proxy.bat)"
     ],
     "deny": [],
     "ask": []
